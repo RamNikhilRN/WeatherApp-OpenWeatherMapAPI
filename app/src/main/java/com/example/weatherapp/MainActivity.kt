@@ -20,7 +20,7 @@ import org.json.JSONObject
 class MainActivity : ComponentActivity() {
 var weather_url1 = ""
 
-    var api_key = "b351dfda037686aef1f4d2c8fc17a416"
+    var api_key = "************************"
 
 
     private lateinit var btVar1: Button
